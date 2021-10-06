@@ -1,0 +1,9 @@
+On a linux system
+
+Open the terminal by searching for it in the dashboard or pressing Ctrl + Alt + T.
+
+Navigate the terminal to the directory where the script is located using the cd command.
+
+Type python main.py in the terminal to execute the script.
+
+If the script is python3, use python3 in the terminal command:python3 main.py
