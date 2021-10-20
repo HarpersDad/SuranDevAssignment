@@ -89,11 +89,11 @@ while correctInput == False:
 
 # function call
 if val == "1":
-    print("option 1")
+    #print("option 1")
     sort("Sort Me.txt", val)
 
 # reversed function call
 if val == "2":
-    print("option 2")
+    #print("option 2")
     sort("Sort Me.txt", val)
 
