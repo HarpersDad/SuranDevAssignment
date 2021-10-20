@@ -6,4 +6,15 @@ Navigate the terminal to the directory where the script is located using the cd 
 
 Type python main.py in the terminal to execute the script.
 
+The script will present the user with two options for sorting.
+
 If the script is python3, use python3 in the terminal command:python3 main.py
+
+
+On Mac OS
+
+Open terminal and navigate to the file in the directory.
+
+Once there, type python3 main.py and press enter.
+
+The user will see the input commands and will be able to choose how to sort the file.
