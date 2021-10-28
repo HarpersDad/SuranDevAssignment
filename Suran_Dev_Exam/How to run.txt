@@ -18,3 +18,7 @@ Open terminal and navigate to the file in the directory.
 Once there, type python3 main.py and press enter.
 
 The user will see the input commands and will be able to choose how to sort the file.
+
+
+
+In both environments the user will see an additional input option after they choose which type of sort to run.  This will allow the user to check if the output was done correctly.
